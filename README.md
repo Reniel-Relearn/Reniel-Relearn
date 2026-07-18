@@ -1,15 +1,19 @@
 <div align="center">
 
-# Hi, I'm Reniel 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2E86DE&center=true&vCenter=true&width=600&lines=AI+Systems+Developer;Aspiring+Forward+Deployed+Engineer;Conversational+AI%2C+Rigorously+Tested" alt="Typing SVG" />
 
-### Embedded Systems Engineer — Firmware · IoT · AI-Assisted Engineering
-
-*Learn. Unlearn. Relearn.*
+### *Learn. Unlearn. Relearn.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reniel-galang-tech-engr/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://reniel-galang-tech-engr.lovable.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:renielgalang.py@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@galangrenielf.3168)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:renielgalang.tech@outlook.com)
+
+<br/>
+
+![Test Runs](https://img.shields.io/badge/Test_Runs-2%2C188-2ea44f?style=for-the-badge)
+![Pass Rate](https://img.shields.io/badge/Pass_Rate-98.54%25-2ea44f?style=for-the-badge)
+![Regression Checks](https://img.shields.io/badge/Regression_Checks-39%2F39-2ea44f?style=for-the-badge)
 
 </div>
 
@@ -17,33 +21,91 @@
 
 ### About Me
 
-Computer Engineering graduate (BS CpE, GWA 1.54/1.00) who has led four embedded systems teams from concept to validated prototype. I build real-time firmware for ESP32 and Raspberry Pi platforms — sensor integration, wireless communication, cloud sync — and I'm extending that into AI-assisted engineering with the OpenAI API and prompt engineering.
+Computer Engineering graduate and part-time **AI Systems Developer**, building customer-facing conversational AI prototypes and testing them the way production software deserves to be tested. I translate business requirements into prompts, workflows, and acceptance criteria — then validate them with structured smoke, functional, and regression testing before they ship. Previously led a five-member engineering team through a cloud-connected fare collection platform, from spec to a 98.54% functional pass rate across 2,188 test runs. Now looking for an entry-level **Forward Deployed Engineer** role centered on technical implementation, testing, and deployment.
 
-- 🔧 Most recent project scored **4.56/5 (expert)** and **4.57/5 (user)** on ISO/IEC 25010:2023 validation testing
-- 🧠 Currently deepening AI/LLM tooling on top of a firmware/hardware foundation
-- 🎓 Graduating June 2026, University of Cabuyao
+### Currently
+
+- 💼 Part-Time **AI Systems Developer** @ Quantum Growth AI Automation Agency — Makati, Philippines (Jul 2026 – Present)
+- 📚 Training as an **Associate AI Engineer for Developers** with DataCamp × Data Engineering Pilipinas — OpenAI API, Prompt Engineering, Hugging Face, LLMOps, Embeddings, Pinecone, LangChain, MCP
+- 🎓 BS Computer Engineering, University of Cabuyao — GWA 1.542, Dean's Lister (2023–2024)
+- 🌱 Open to entry-level **Forward Deployed Engineer** opportunities
+
+---
 
 ### Tech Stack
 
+**Applied AI**
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+![D-ID Studio](https://img.shields.io/badge/D--ID%20Studio-1a1a2e?style=flat&logoColor=white)
+![Conversational AI Design](https://img.shields.io/badge/Conversational%20AI%20Design-1a1a2e?style=flat&logoColor=white)
+
+**Programming & Integration**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logoColor=white)
+
+**Testing & Delivery**
+
+![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-6c5ce7?style=flat&logoColor=white)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-6c5ce7?style=flat&logoColor=white)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-6c5ce7?style=flat&logoColor=white)
+![Defect Reproduction](https://img.shields.io/badge/Defect%20Reproduction-6c5ce7?style=flat&logoColor=white)
+![Acceptance Criteria](https://img.shields.io/badge/Acceptance%20Criteria-6c5ce7?style=flat&logoColor=white)
+
+**Dev & Deployment**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
 
 ### Featured Projects
 
-| Project | What it does | Result |
-|---|---|---|
-| [**Automated Fare Collection System**](https://github.com/Reniel-Relearn/capstone-design-project-AFCS) | Raspberry Pi 4 firmware unifying NFC tap-in/out, GPS fare computation, seat sensing, and gate control, synced to Firebase in real time | **4.56/5 expert · 4.57/5 user** (ISO/IEC 25010:2023) |
-| [**Tunnel Worker Smart Glass Helmet**](https://github.com/Reniel-Relearn/smart-glass-helmet) | ESP32-S3 wearable safety system: environmental sensing, OLED visor alerts, BLE + Wi-Fi dual connectivity, Firebase logging | Migrated ESP32-C3 → S3 mid-project to solve a BLE/Wi-Fi coexistence constraint |
+#### 🚌 Automated Fare Collection System
+**Team Leader** · Python · Firebase · Raspberry Pi · NFC · GPS · REST APIs
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Reniel-Relearn/capstone-design-project-AFCS)
 
-More project write-ups and demos: [portfolio](https://reniel-galang-tech-engr.lovable.app/) · [YouTube](https://www.youtube.com/@galangrenielf.3168)
+Led a five-member team designing a Python-based, cloud-connected fare collection system with commuter, driver, and administrator interfaces — card validation, terminal-based fare computation, seat allocation and monitoring, and financial analytics. Designed, logged, and executed 2,188 manual test runs across 21 scenarios to validate every functional requirement.
+
+![Test Runs](https://img.shields.io/badge/Test%20Runs-2%2C188-2ea44f?style=flat)
+![Pass Rate](https://img.shields.io/badge/Pass%20Rate-98.54%25-2ea44f?style=flat)
+![ISO Expert Rating](https://img.shields.io/badge/ISO%2FIEC%2025010-4.56%2F5%20expert-0984e3?style=flat)
+![ISO User Rating](https://img.shields.io/badge/ISO%2FIEC%2025010-4.57%2F5%20user-0984e3?style=flat)
+
+#### 🍸 AI Bartender Conversational Prototype
+**AI Systems Developer** · D-ID Studio · Git/GitHub · Vercel · Supabase
+<sub>Private prototype — built for Quantum Growth AI Automation Agency</sub>
+
+Developed and deployed a conversational AI bartender supporting six approved drinks, explicit order confirmation, one-ticket-per-order behavior, and correct drink-to-video mapping. Designed a 39-check end-to-end smoke and regression suite covering greeting, ordering, confirmation, ticket management, video playback, and session recovery — then diagnosed and resolved defects in video mapping, duplicate orders, and overlapping AI responses through iterative test-fix-retest cycles.
+
+![Regression Checks](https://img.shields.io/badge/Regression%20Checks-39%2F39%20passing-2ea44f?style=flat)
+![Drinks Supported](https://img.shields.io/badge/Drinks%20Supported-6-6c5ce7?style=flat)
+
+**Other Projects:** 🪖 [Smart Glass Helmet](https://github.com/Reniel-Relearn/smart-glass-helmet) — ESP32-S3 wearable safety system for tunnel workers with real-time environmental sensing, OLED alerts, and Firebase logging.
+
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Reniel-Relearn&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reniel-Relearn&hide_border=true" alt="GitHub streak" height="165"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Reniel-Relearn&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Reniel-Relearn&show_icons=true&theme=default&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reniel-Relearn&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub stats" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Reniel-Relearn&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Reniel-Relearn&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reniel-Relearn&hide_border=true" alt="GitHub streak" height="165" />
+</picture>
+
+<br/>
+
+*Open to entry-level Forward Deployed Engineer roles — let's connect.*
+
 </div>
