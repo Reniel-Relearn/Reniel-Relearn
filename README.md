@@ -79,7 +79,7 @@ Led a five-member team designing a Python-based, cloud-connected fare collection
 ![ISO User Rating](https://img.shields.io/badge/ISO%2FIEC%2025010-4.57%2F5%20user-0984e3?style=flat)
 
 #### 🍸 AI Bartender Conversational Prototype
-**AI Systems Developer** · D-ID Studio · Git/GitHub · Vercel · Supabase
+**AI Systems Developer**
 <sub>Private prototype — built for Quantum Growth AI Automation Agency</sub>
 
 Developed and deployed a conversational AI bartender supporting six approved drinks, explicit order confirmation, one-ticket-per-order behavior, and correct drink-to-video mapping. Designed a 39-check end-to-end smoke and regression suite covering greeting, ordering, confirmation, ticket management, video playback, and session recovery — then diagnosed and resolved defects in video mapping, duplicate orders, and overlapping AI responses through iterative test-fix-retest cycles.
