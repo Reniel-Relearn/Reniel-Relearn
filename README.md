@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2E86DE&center=true&vCenter=true&width=600&lines=AI+Systems+Developer;Forward+Deployed+Engineer;AI+Solutions+and+Integration+Engineer;Conversational+AI%2C+Rigorously+Tested" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2E86DE&center=true&vCenter=true&width=600&lines=AI+Systems+Developer;Forward+Deployed+Engineer;Conversational+AI%2C+Rigorously+Tested" alt="Typing SVG" />
 
 ### *Learn. Unlearn. Relearn.*
 
@@ -21,14 +21,14 @@
 
 ### About Me
 
-Computer Engineering graduate and part-time **AI Systems Developer**, building customer-facing conversational AI prototypes and testing them the way production software deserves to be tested. I translate business requirements into prompts, workflows, and acceptance criteria — then validate them with structured smoke, functional, and regression testing before they ship. Previously led a five-member engineering team through a cloud-connected fare collection platform, from spec to a 98.54% functional pass rate across 2,188 test runs. Now looking for a software engineering role centered on AI implementation, customer solutions, integration, testing, and deployment.
+Computer Engineering graduate and part-time **AI Systems Developer**, building customer-facing conversational AI prototypes and testing them the way production software deserves to be tested. I translate business requirements into prompts, workflows, and acceptance criteria — then validate them with structured smoke, functional, and regression testing before they ship. Previously led a five-member engineering team through a cloud-connected fare collection platform, from spec to a 98.54% functional pass rate across 2,188 test runs. Now looking for a **Forward Deployed Engineer** role centered on technical implementation, testing, and deployment.
 
 ### Currently
 
 - 💼 Part-Time **AI Systems Developer** @ Quantum Growth AI Automation Agency — Makati, Philippines (Jul 2026 – Present)
 - 📚 Training as an **Associate AI Engineer for Developers** with DataCamp × Data Engineering Pilipinas — OpenAI API, Prompt Engineering, Hugging Face, LLMOps, RAG, Embeddings, Pinecone, LangChain, MCP
 - 🎓 BS Computer Engineering, University of Cabuyao — GWA 1.542, Dean's Lister (2023–2024)
-- 🌱 Open to: **Forward Deployed Engineer** · **AI Solutions Engineer** · **Integration Engineer** · **QA/Test Engineer (AI Systems)** · **Deployment Engineer**
+- 🌱 Open to **Forward Deployed Engineer** opportunities
 
 ---
 
@@ -116,6 +116,6 @@ Developed and deployed a conversational AI bartender supporting six approved dri
 
 <br/>
 
-*Open to Forward Deployed Engineer, AI Solutions Engineer, Integration Engineer, QA/Test Engineer, and Deployment Engineer roles — let's connect.*
+*Open to Forward Deployed Engineer roles — let's connect.*
 
 </div>
