@@ -36,9 +36,9 @@ Computer Engineering graduate and part-time **AI Systems Developer**, building c
 
 All private — active client/agency work, happy to walk through architecture and results live.
 
-- 🍸 **AI Bartender** — conversational AI bartender for Quantum Growth AI Automation Agency. 39/39 regression checks passing. *(full write-up under Featured Projects below)*
-- 🛎️ **AI Receptionist** — queuing/check-in kiosk for walk-in visitors (hospitals, universities): AI avatar check-in, QR queue ticket, and a phone alert when it's your turn. Generic, deployment-agnostic core (Supabase + vanilla JS).
-- 📊 **PCSTI Integrated Operations & Analytics System** — KPI/checklist workflow MVP: CEO objectives → department KPIs → employee submissions with evidence → manager approval → automatic scoring → role-specific dashboards. Next.js, Prisma, Supabase, Recharts.
+- 🍸 **AI Bartender** — conversational AI bartender. 39/39 regression checks passing. Shipped. *(full write-up under Featured Projects below, case study: [ai-bartender-showcase](https://github.com/Reniel-Relearn/ai-bartender-showcase))*
+- 🛎️ **AI Receptionist** — queuing/check-in kiosk for walk-in visitors (hospitals, universities): AI avatar check-in, QR queue ticket, and a phone alert when it's your turn. Generic, deployment-agnostic core. In development. Case study: [ai-receptionist-showcase](https://github.com/Reniel-Relearn/ai-receptionist-showcase)
+- 📊 **AI KPI Dashboards** — KPI/checklist workflow MVP: CEO objectives → department KPIs → employee submissions with evidence → manager approval → automatic scoring → role-specific dashboards. In development. Case study: [ai-kpi-dashboards-showcase](https://github.com/Reniel-Relearn/ai-kpi-dashboards-showcase)
 
 ---
 
