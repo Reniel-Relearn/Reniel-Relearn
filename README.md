@@ -28,7 +28,6 @@ Computer Engineering graduate and part-time **AI Systems Developer**, building c
 - 💼 Part-Time **AI Systems Developer** @ Quantum Growth AI Automation Agency — Makati, Philippines (Jul 2026 – Present)
 - 📚 Training as an **Associate AI Engineer for Developers** with DataCamp × Data Engineering Pilipinas — OpenAI API, Prompt Engineering, Hugging Face, LLMOps, RAG, Embeddings, Pinecone, LangChain, MCP
 - 🎓 BS Computer Engineering, University of Cabuyao — GWA 1.542, Dean's Lister (2023–2024)
-- 🌱 Open to **Forward Deployed Engineer** opportunities
 
 ---
 
