@@ -115,6 +115,4 @@ Developed and deployed a conversational AI bartender supporting six approved dri
 
 <br/>
 
-*Open to Forward Deployed Engineer roles — let's connect.*
-
 </div>
