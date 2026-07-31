@@ -51,6 +51,7 @@ All private — active client/agency work, happy to walk through architecture an
 - 🍸 **AI Bartender** — conversational AI bartender. 39/39 regression checks passing. Shipped. *(full write-up under Featured Projects below, case study: [ai-bartender-showcase](https://github.com/Reniel-Relearn/ai-bartender-showcase))*
 - 🛎️ **AI Receptionist** — queuing/check-in kiosk for walk-in visitors (hospitals, universities): AI avatar check-in, QR queue ticket, and a phone alert when it's your turn. Generic, deployment-agnostic core. In development. Case study: [ai-receptionist-showcase](https://github.com/Reniel-Relearn/ai-receptionist-showcase)
 - 📊 **AI KPI Dashboards** — KPI/checklist workflow MVP: CEO objectives → department KPIs → employee submissions with evidence → manager approval → automatic scoring → role-specific dashboards. In development. Case study: [ai-kpi-dashboards-showcase](https://github.com/Reniel-Relearn/ai-kpi-dashboards-showcase)
+- 🏢 **Client Company Website Redesign** — homepage redesign presentation built from five source-of-truth PDFs and an approved mockup, generated (not hand-assembled) from a content/template/render pipeline. Includes self-built QA tooling: a coverage audit that asserts every PDF-sourced fact actually appears on the rendered page, plus a responsive-overflow check across 375–1920px. Shipped (client presentation deliverable). Repo: [tovv-fctry](https://github.com/Reniel-Relearn/tovv-fctry)
 
 ---
 
