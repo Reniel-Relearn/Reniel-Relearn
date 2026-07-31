@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2E86DE&center=true&vCenter=true&width=600&lines=AI+Systems+Developer;Forward+Deployed+Engineer;Conversational+AI%2C+Rigorously+Tested" alt="Typing SVG" />
+# AI Systems Developer
 
 ### *Learn. Unlearn. Relearn.*
 
@@ -15,13 +15,26 @@
 ![Pass Rate](https://img.shields.io/badge/Pass_Rate-98.54%25-2ea44f?style=for-the-badge)
 ![Regression Checks](https://img.shields.io/badge/Regression_Checks-39%2F39-2ea44f?style=for-the-badge)
 
+<!-- LIVE-STATUS:START -->
+🟢 Portfolio verified up · last checked —
+<!-- LIVE-STATUS:END -->
+
 </div>
 
 ---
 
 ### About Me
 
-Computer Engineering graduate and part-time **AI Systems Developer**, building customer-facing conversational AI prototypes and testing them the way production software deserves to be tested. I translate business requirements into prompts, workflows, and acceptance criteria — then validate them with structured smoke, functional, and regression testing before they ship. Previously led a five-member engineering team through a cloud-connected fare collection platform, from spec to a 98.54% functional pass rate across 2,188 test runs. Now looking for a **Forward Deployed Engineer** role centered on technical implementation, testing, and deployment.
+Computer Engineering graduate and part-time **AI Systems Developer**, building customer-facing conversational AI prototypes and testing them the way production software deserves to be tested. I translate business requirements into prompts, workflows, and acceptance criteria — then validate them with structured smoke, functional, and regression testing before they ship. Previously led a five-member engineering team through a cloud-connected fare collection platform, from spec to a 98.54% functional pass rate across 2,188 test runs.
+
+### The Numbers
+
+```mermaid
+pie showData
+    title AFCS — 2,188 Test Runs
+    "Passed" : 2156
+    "Failed" : 32
+```
 
 ### Currently
 
