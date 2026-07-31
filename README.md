@@ -16,7 +16,7 @@
 ![Regression Checks](https://img.shields.io/badge/Regression_Checks-39%2F39-2ea44f?style=for-the-badge)
 
 <!-- LIVE-STATUS:START -->
-🟢 Portfolio verified up · last checked —
+🟢 Portfolio verified up · last checked 2026-07-31 04:56 UTC
 <!-- LIVE-STATUS:END -->
 
 </div>
