@@ -1,133 +1,228 @@
-<div align="center">
+# Reniel | AI Systems Developer
 
-# AI Systems Developer
+### Building, testing, and shipping reliable applied-AI systems.
 
-### *Learn. Unlearn. Relearn.*
+*Learn. Unlearn. Relearn.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reniel-galang-tech-engr/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://reniel-galang.lovable.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:renielgalang.py@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@galangrenielf.3168)
+I build customer-facing AI prototypes and the workflows around them — translating business requirements into conversational behavior, integrations, acceptance criteria, and testable systems.
 
-<br/>
-
-![Test Runs](https://img.shields.io/badge/Test_Runs-2%2C188-2ea44f?style=for-the-badge)
-![Pass Rate](https://img.shields.io/badge/Pass_Rate-98.54%25-2ea44f?style=for-the-badge)
-![Regression Checks](https://img.shields.io/badge/Regression_Checks-39%2F39-2ea44f?style=for-the-badge)
-
-<!-- LIVE-STATUS:START -->
-🟢 Portfolio verified up · last checked 2026-08-08 01:29 UTC
-<!-- LIVE-STATUS:END -->
-
-</div>
+My work focuses on **conversational AI, applied AI integrations, system reliability, and structured QA**, with hands-on experience taking projects from requirements through deployment and regression testing.
 
 ---
 
-### About Me
+## Impact at a Glance
 
-Computer Engineering graduate and part-time **AI Systems Developer**, building customer-facing conversational AI prototypes and testing them the way production software deserves to be tested. I translate business requirements into prompts, workflows, and acceptance criteria — then validate them with structured smoke, functional, and regression testing before they ship. Previously led a five-member engineering team through a cloud-connected fare collection platform, from spec to a 98.54% functional pass rate across 2,188 test runs.
+| Project                                 | Engineering Result                                                                                                    |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 🍸 **AI Bartender**                     | **39/39 regression checks passing** across conversational, ordering, media, ticketing, and session-recovery workflows |
+| 🚌 **Automated Fare Collection System** | **2,188 functional test runs**, **2,156 correct outcomes**, **98.54% aggregate pass rate**                            |
+| 👥 **Engineering Leadership**           | Led a **5-member engineering team** from system requirements through implementation and validation                    |
+| 🏢 **Client Website Redesign**          | Built automated content-coverage and responsive-overflow QA across **375–1920px**                                     |
 
-### The Numbers
+---
 
-```mermaid
-%%{init: {"themeVariables": {"pie1": "#2ea44f", "pie2": "#FFCA28"}}}%%
-pie showData
-    title AFCS — 2,188 Test Runs
-    "Passed" : 2156
-    "Failed" : 32
+## Selected Projects
+
+### 🍸 AI Bartender
+
+**AI Systems Developer · Conversational AI · QA · Deployment**
+
+Customer-facing conversational bartender prototype developed for Quantum Growth AI Automation Agency.
+
+* Built conversational ordering flows for **6 approved drinks**
+* Implemented explicit confirmation and **one-ticket-per-order** behavior
+* Connected drink intent to the correct preparation-video workflow
+* Designed a **39-check smoke and regression suite**
+* Tested greeting, ordering, confirmations, ticket management, media playback, and session recovery
+* Diagnosed defects involving duplicate orders, incorrect media mapping, and overlapping AI responses
+* Repeated **test → diagnose → fix → retest** cycles until **39/39 checks passed**
+
+Source code remains private due to agency/client confidentiality.
+
+**Case Study:** [ai-bartender-showcase](https://github.com/Reniel-Relearn/ai-bartender-showcase)
+
+---
+
+### 🛎️ AI Receptionist
+
+**Conversational AI · Kiosk Workflow · Queue Management**
+
+AI-assisted receptionist and check-in system designed for environments such as hospitals, universities, and visitor facilities.
+
+Core workflow:
+
+`Visitor → AI Check-In → Queue Registration → QR Ticket → Queue Monitoring → Phone Notification`
+
+Current development areas include:
+
+* Conversational visitor check-in
+* QR-based queue tickets
+* Queue-state management
+* Visitor notification workflow
+* Deployment-agnostic kiosk architecture
+
+**Status:** In development
+
+**Case Study:** [ai-receptionist-showcase](https://github.com/Reniel-Relearn/ai-receptionist-showcase)
+
+---
+
+### 📊 AI KPI Dashboards
+
+**Workflow Automation · Business Logic · Role-Based Dashboards**
+
+KPI and checklist workflow system that translates executive objectives into measurable departmental and employee-level execution.
+
+Workflow:
+
+`CEO Objectives → Department KPIs → Employee Evidence → Manager Approval → Automated Scoring → Dashboards`
+
+Current focus:
+
+* KPI workflow modeling
+* Evidence-based employee submissions
+* Manager approval flows
+* Automated scoring logic
+* Role-specific dashboards
+
+**Status:** In development
+
+**Case Study:** [ai-kpi-dashboards-showcase](https://github.com/Reniel-Relearn/ai-kpi-dashboards-showcase)
+
+---
+
+### 🚌 Automated Fare Collection System
+
+**Team Leader · Python · Firebase · Raspberry Pi · NFC · GPS · REST APIs**
+
+Led a five-member engineering team in developing a Python-based, cloud-connected fare collection platform with commuter, driver, and administrator interfaces.
+
+The system included:
+
+* NFC card authentication and validation
+* Terminal-based fare computation
+* GPS processing
+* Seat allocation and monitoring
+* Gate-control workflows
+* Driver and commuter interfaces
+* Real-time Firebase synchronization
+* Administrative financial analytics
+* Alerts and transaction monitoring
+
+For system validation, I designed, documented, and executed:
+
+* **2,188 manual test runs**
+* **21 functional scenarios**
+* **2,156 correct outcomes**
+* **98.54% aggregate functional pass rate**
+
+The project was taken from requirements and architecture through implementation, system integration, testing, and evaluation.
+
+---
+
+### 🏢 Client Website Redesign Pipeline
+
+**Content Automation · QA Tooling · Responsive Validation**
+
+Developed a client homepage presentation from **five source-of-truth PDF documents** and an approved design reference.
+
+Rather than manually assembling the final page, I built a content/template/render workflow with automated validation.
+
+Engineering work included:
+
+* PDF-derived structured content workflow
+* Template-based page generation
+* Automated content-coverage auditing
+* Assertions that required source facts appeared in the rendered output
+* Responsive-overflow testing across **375px–1920px**
+* Iterative visual QA against the approved design
+
+**Status:** Shipped
+
+**Repository:** [tovv-fctry](https://github.com/Reniel-Relearn/tovv-fctry)
+
+---
+
+### 🪖 Smart Glass Helmet
+
+ESP32-S3 wearable safety prototype designed for tunnel workers.
+
+Features include:
+
+* Real-time environmental sensing
+* OLED safety alerts
+* Firebase data logging
+* Embedded monitoring workflow
+
+**Repository:** [smart-glass-helmet](https://github.com/Reniel-Relearn/smart-glass-helmet)
+
+---
+
+## Tech Stack
+
+### Applied AI
+
+`OpenAI API` · `Prompt Engineering` · `Conversational AI` · `AI Workflow Design`
+
+### Programming & Integration
+
+`Python` · `REST APIs` · `Firebase` · `Raspberry Pi` · `NFC` · `GPS`
+
+### Testing & Reliability
+
+`Smoke Testing` · `Functional Testing` · `Regression Testing` · `Acceptance Criteria` · `Manual QA` · `Defect Reproduction`
+
+### Development & Deployment
+
+`Git` · `GitHub` · `Linux` · `Vercel`
+
+---
+
+## Currently Learning
+
+I'm currently expanding from conversational AI prototyping into broader **LLM application engineering and AI-agent systems** through the DataCamp × Data Engineering Pilipinas Associate AI Engineer for Developers program.
+
+Current topics include:
+
+`RAG` · `Embeddings` · `Vector Databases` · `Pinecone` · `LangChain` · `MCP` · `Hugging Face` · `LLMOps`
+
+The goal is to move these technologies from coursework into production-style projects and measurable implementations.
+
+---
+
+## Current Role
+
+**Part-Time AI Systems Developer**
+Quantum Growth AI Automation Agency · Makati, Philippines
+**July 2026 – Present**
+
+I work on customer-facing conversational AI prototypes, system behavior, testing workflows, and deployment validation.
+
+A significant part of my work is making AI systems behave reliably under real user interaction — not just making the first demo work.
+
+---
+
+## Education
+
+**Bachelor of Science in Computer Engineering**
+University of Cabuyao
+
+* GWA: **1.542**
+* Dean's Lister, **2023–2024**
+* Undergraduate engineering team leader
+
+---
+
+## Engineering Philosophy
+
+```text
+Build → Test → Break → Diagnose → Improve → Retest → Ship
 ```
 
-### Currently
+I care about the part between **“the AI works”** and **“the system is reliable enough for a real user.”**
 
-- 💼 Part-Time **AI Systems Developer** @ Quantum Growth AI Automation Agency — Makati, Philippines (Jul 2026 – Present)
-- 📚 Training as an **Associate AI Engineer for Developers** with DataCamp × Data Engineering Pilipinas — OpenAI API, Prompt Engineering, Hugging Face, LLMOps, RAG, Embeddings, Pinecone, LangChain, MCP
-- 🎓 BS Computer Engineering, University of Cabuyao — GWA 1.542, Dean's Lister (2023–2024)
+That means defining expected behavior, testing edge cases, reproducing failures, measuring results, and continuously improving the implementation.
 
 ---
 
-### 🔨 Currently Building
-
-All private — active client/agency work, happy to walk through architecture and results live.
-
-- 🍸 **AI Bartender** — conversational AI bartender. 39/39 regression checks passing. Shipped. *(full write-up under Featured Projects below, case study: [ai-bartender-showcase](https://github.com/Reniel-Relearn/ai-bartender-showcase))*
-- 🛎️ **AI Receptionist** — queuing/check-in kiosk for walk-in visitors (hospitals, universities): AI avatar check-in, QR queue ticket, and a phone alert when it's your turn. Generic, deployment-agnostic core. In development. Case study: [ai-receptionist-showcase](https://github.com/Reniel-Relearn/ai-receptionist-showcase)
-- 📊 **AI KPI Dashboards** — KPI/checklist workflow MVP: CEO objectives → department KPIs → employee submissions with evidence → manager approval → automatic scoring → role-specific dashboards. In development. Case study: [ai-kpi-dashboards-showcase](https://github.com/Reniel-Relearn/ai-kpi-dashboards-showcase)
-- 🏢 **Client Company Website Redesign** — homepage redesign presentation built from five source-of-truth PDFs and an approved mockup, generated (not hand-assembled) from a content/template/render pipeline. Includes self-built QA tooling: a coverage audit that asserts every PDF-sourced fact actually appears on the rendered page, plus a responsive-overflow check across 375–1920px. Shipped (client presentation deliverable). Repo: [tovv-fctry](https://github.com/Reniel-Relearn/tovv-fctry)
-
----
-
-### Tech Stack
-
-**Applied AI**
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat&logo=openai&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
-![D-ID Studio](https://img.shields.io/badge/D--ID%20Studio-1a1a2e?style=flat&logoColor=white)
-![Conversational AI Design](https://img.shields.io/badge/Conversational%20AI%20Design-1a1a2e?style=flat&logoColor=white)
-
-**Programming & Integration**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logoColor=white)
-
-**Testing & Delivery**
-
-![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-6c5ce7?style=flat&logoColor=white)
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-6c5ce7?style=flat&logoColor=white)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-6c5ce7?style=flat&logoColor=white)
-![Defect Reproduction](https://img.shields.io/badge/Defect%20Reproduction-6c5ce7?style=flat&logoColor=white)
-![Acceptance Criteria](https://img.shields.io/badge/Acceptance%20Criteria-6c5ce7?style=flat&logoColor=white)
-
-**Dev & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
----
-
-### Featured Projects
-
-#### 🚌 Automated Fare Collection System
-**Team Leader** · Python · Firebase · Raspberry Pi · NFC · GPS · REST APIs
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Reniel-Relearn/capstone-design-project-AFCS)
-
-Led a five-member team designing a Python-based, cloud-connected fare collection system with commuter, driver, and administrator interfaces — card validation, terminal-based fare computation, seat allocation and monitoring, and financial analytics. Designed, logged, and executed 2,188 manual test runs across 21 scenarios to validate every functional requirement.
-
-![Test Runs](https://img.shields.io/badge/Test%20Runs-2%2C188-2ea44f?style=flat)
-![Pass Rate](https://img.shields.io/badge/Pass%20Rate-98.54%25-2ea44f?style=flat)
-![ISO Expert Rating](https://img.shields.io/badge/ISO%2FIEC%2025010-4.56%2F5%20expert-0984e3?style=flat)
-![ISO User Rating](https://img.shields.io/badge/ISO%2FIEC%2025010-4.57%2F5%20user-0984e3?style=flat)
-
-#### 🍸 AI Bartender Conversational Prototype
-**AI Systems Developer**
-<sub>Private prototype — built for Quantum Growth AI Automation Agency</sub>
-
-Developed and deployed a conversational AI bartender supporting six approved drinks, explicit order confirmation, one-ticket-per-order behavior, and correct drink-to-video mapping. Designed a 39-check end-to-end smoke and regression suite covering greeting, ordering, confirmation, ticket management, video playback, and session recovery — then diagnosed and resolved defects in video mapping, duplicate orders, and overlapping AI responses through iterative test-fix-retest cycles.
-
-![Regression Checks](https://img.shields.io/badge/Regression%20Checks-39%2F39%20passing-2ea44f?style=flat)
-![Drinks Supported](https://img.shields.io/badge/Drinks%20Supported-6-6c5ce7?style=flat)
-
-**Other Projects:** 🪖 [Smart Glass Helmet](https://github.com/Reniel-Relearn/smart-glass-helmet) — ESP32-S3 wearable safety system for tunnel workers with real-time environmental sensing, OLED alerts, and Firebase logging.
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Reniel-Relearn&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Reniel-Relearn&show_icons=true&theme=default&hide_title=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Reniel-Relearn&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub stats" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Reniel-Relearn&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Reniel-Relearn&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reniel-Relearn&hide_border=true" alt="GitHub streak" height="165" />
-</picture>
-
-<br/>
-
-</div>
+### Learn. Unlearn. Relearn.
