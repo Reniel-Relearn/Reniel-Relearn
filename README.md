@@ -30,6 +30,7 @@ Computer Engineering graduate and part-time **AI Systems Developer**, building c
 ### The Numbers
 
 ```mermaid
+%%{init: {"themeVariables": {"pie1": "#2ea44f", "pie2": "#da3633"}}}%%
 pie showData
     title AFCS — 2,188 Test Runs
     "Passed" : 2156
