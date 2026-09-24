@@ -205,7 +205,7 @@ A significant part of my work is making AI systems behave reliably under real us
 ## Education
 
 **Bachelor of Science in Computer Engineering**
-(University of Cabuyao) | **2022 - 2026**
+(University of Cabuyao) | **Aug 2022 - Jun 2026**
 
 * CGWA: **1.49** | CGPA: **3.51**
 * Dean's Lister, **2023–2024**
