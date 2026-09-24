@@ -207,7 +207,7 @@ A significant part of my work is making AI systems behave reliably under real us
 **Bachelor of Science in Computer Engineering**
 University of Cabuyao
 
-* GWA: **1.542**
+* CGWA: **1.49** | CGPA: **3.51**
 * Dean's Lister, **2023–2024**
 * Undergraduate engineering team leader
 
