@@ -1,4 +1,4 @@
-# Reniel | AI Systems Developer
+# Reniel | AI Systems Developer | Software Developer | Computer Engineer
 
 ### Building, testing, and shipping reliable applied-AI systems.
 
