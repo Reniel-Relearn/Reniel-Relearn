@@ -192,9 +192,9 @@ The goal is to move these technologies from coursework into production-style pro
 
 ## Current Role
 
-**Part-Time AI Systems Developer**
-Quantum Growth AI Automation Agency · Makati, Philippines
-**July 2026 – Present**
+**Volunteer AI Systems Developer**
+(Quantum Growth AI Automation Company · Makati, Philippines)
+| **July 2026 – Present**
 
 I work on customer-facing conversational AI prototypes, system behavior, testing workflows, and deployment validation.
 
@@ -205,7 +205,7 @@ A significant part of my work is making AI systems behave reliably under real us
 ## Education
 
 **Bachelor of Science in Computer Engineering**
-University of Cabuyao
+(University of Cabuyao) | **2022 - 2026**
 
 * CGWA: **1.49** | CGPA: **3.51**
 * Dean's Lister, **2023–2024**
