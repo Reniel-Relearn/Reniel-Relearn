@@ -194,7 +194,7 @@ The goal is to move these technologies from coursework into production-style pro
 
 **Volunteer AI Systems Developer**
 (Quantum Growth AI Automation Company · Makati, Philippines)
-| **July 2026 – Present**
+| **July 2026 – December 2026**
 
 I work on customer-facing conversational AI prototypes, system behavior, testing workflows, and deployment validation.
 
