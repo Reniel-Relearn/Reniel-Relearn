@@ -44,7 +44,7 @@ I'm an **AI-assisted software builder** drawn to conversational AI, interactive 
 
 `React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Vercel` `Android kiosk` `Voice agents (integration planned)`
 
-**Explore:** Private &nbsp;·&nbsp; **Preview:** Private
+**Explore:** Private &nbsp;·&nbsp; **Preview:** https://drive.google.com/file/d/1RwHvEZGLBM6TaHkL6OK54yotTTz_8A8e/view?usp=sharing
 
 #### 02 / CalorieCheck — Making food tracking more personal
 
