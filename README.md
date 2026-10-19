@@ -8,7 +8,7 @@ GITHUB PROFILE README
 -->
 
 <p align="center">
-  <img src="assets/hero.svg" alt="RENIEL GALANG — AI-assisted software builder. Featured system: YourAI, an intelligent kiosk receptionist." width="100%" />
+  <img src="assets/hero.svg" alt="RENIEL GALANG — AI-native developer. Featured system: YourAI, an intelligent kiosk receptionist." width="100%" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ GITHUB PROFILE README
 
 **I turn a product idea into a system you can actually try.**
 
-I'm an **AI-assisted software builder** drawn to conversational AI, interactive web experiences, and software that meets the physical world. I work from the problem outward: define requirements, question architecture, coordinate implementation with AI coding tools, and test the result against real user journeys.
+I'm an **AI-native developer** drawn to conversational AI, interactive web experiences, and software that meets the physical world. I work from the problem outward: define requirements, question architecture, coordinate implementation with AI coding tools, and test the result against real user journeys.
 
 > **My operating principle:** Let AI handle conversation and accelerate development; keep identity, authorization, and critical business rules deterministic.
 
