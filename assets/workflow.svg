@@ -9,7 +9,7 @@
 </defs>
 <rect width="1200" height="220" fill="url(#bg)" rx="28"/>
 <rect width="1200" height="220" fill="url(#grid)" rx="28"/>
-<text x="42" y="42" fill="#88c9e6" font-family="monospace" font-size="15" font-weight="700" letter-spacing="1.4">MY DEVELOPMENT LOOP  /  HUMAN-DIRECTED, AI-ASSISTED</text>
+<text x="42" y="42" fill="#88c9e6" font-family="monospace" font-size="15" font-weight="700" letter-spacing="1.4">MY DEVELOPMENT LOOP  /  HUMAN-DIRECTED, AI-NATIVE</text>
 <rect x="36" y="65" width="217" height="117" rx="13" fill="#12283a" stroke="#345265"/>
 <text x="55" y="99" fill="#74dcc6" font-family="monospace" font-size="16" font-weight="700">01</text>
 <text x="55" y="129" fill="#edf5fa" font-family="Arial,sans-serif" font-size="22" font-weight="800">DEFINE</text>
@@ -25,7 +25,7 @@
 <rect x="510" y="65" width="217" height="117" rx="13" fill="#12283a" stroke="#345265"/>
 <text x="529" y="99" fill="#74dcc6" font-family="monospace" font-size="16" font-weight="700">03</text>
 <text x="529" y="129" fill="#edf5fa" font-family="Arial,sans-serif" font-size="22" font-weight="800">BUILD</text>
-<text x="529" y="157" fill="#96b2c5" font-family="Arial,sans-serif" font-size="15">AI-assisted coding</text>
+<text x="529" y="157" fill="#96b2c5" font-family="Arial,sans-serif" font-size="15">AI-native development</text>
 <path d="M727 123h20" stroke="#73cbbf" stroke-width="3"/>
 <path d="M740 117l7 6-7 6" stroke="#73cbbf" stroke-width="3" fill="none"/>
 <rect x="747" y="65" width="217" height="117" rx="13" fill="#12283a" stroke="#345265"/>

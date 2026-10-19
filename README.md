@@ -22,11 +22,23 @@ GITHUB PROFILE README
 
 ## Hey, I'm Reniel Galang.👋
 
-**I turn a product idea into a system you can actually try.**
+**I make AI systems faster, safer, easier to change, and ready to test beyond the browser demo.**
 
 I'm an **AI-native developer** drawn to conversational AI, interactive web experiences, and software that meets the physical world. I work from the problem outward: define requirements, question architecture, coordinate implementation with AI coding tools, and test the result against real user journeys.
 
 > **My operating principle:** Let AI handle conversation and accelerate development; keep identity, authorization, and critical business rules deterministic.
+
+### ✦ AI problems I solve
+
+| Problem | How I approach it |
+| :--- | :--- |
+| **Slow voice-agent responses** | Reduce time to first audible response, design for streaming, and make turn-taking and interruptions feel natural. |
+| **Voice agents that hear themselves** | Separate playback and microphone states, control turn boundaries, and test interruption behavior so the agent does not treat its own output as a new user request. |
+| **Provider lock-in** | Put voice and LLM providers behind clear interfaces so the product can change services without rewriting the kiosk experience. |
+| **Ungrounded conversations and unsafe actions** | Ground answers in approved knowledge while keeping identity, authorization, and trusted data operations in deterministic application code. |
+| **Unverified AI-native delivery** | Turn requirements into written specifications, reproducible tests, architecture reviews, and human acceptance gates before calling a feature complete. |
+
+I apply this approach while evaluating voice-response latency and testing browser and **SUNMI kiosk** builds. My testing foundation also includes **2,188 documented manual test results across 21 categories** for a cloud-connected embedded system.
 
 ### ✦ Selected work
 
@@ -62,7 +74,7 @@ I'm an **AI-native developer** drawn to conversational AI, interactive web exper
 
 ![My development process from problem definition to verification and iteration](assets/workflow.svg)
 
-I use **ChatGPT for research, requirements, and technical reasoning**, and **OpenAI Codex in VS Code for AI-assisted implementation**. My focus is on defining constraints, reviewing outcomes, running practical tests, and deciding what is ready to ship. I don't equate AI-generated code with verified software.
+I use **ChatGPT for research, requirements, and technical reasoning**, and **OpenAI Codex in VS Code for AI-native development**. My focus is on defining constraints, reviewing outcomes, running practical tests, and deciding what is ready to ship. I don't equate AI-generated code with verified software.
 
 | What I care about | What it means in practice |
 | :--- | :--- |
@@ -82,17 +94,6 @@ I use **ChatGPT for research, requirements, and technical reasoning**, and **Ope
 | **Development workflow** | `VS Code` `OpenAI Codex` `ChatGPT` `PowerShell` `Markdown specs` |
 | **Devices** | `SUNMI Flex 3` `Android` `Browser-based kiosk UI` |
 
-<details>
-<summary><strong>↳ The technical problems I'm currently exploring</strong></summary>
-<br/>
-
-- **Voice-agent speed:** Time to first audible response, streaming, turn-taking, and interruption handling.
-- **Provider independence:** Keeping the product flexible enough to change its voice/LLM provider without rewriting the entire kiosk.
-- **Grounded conversations:** Using approved knowledge sources while separating model answers from trusted data operations.
-- **AI-assisted engineering:** Better specifications, reproducible tests, architecture reviews, and human acceptance gates.
-
-</details>
-
 ---
 
 ### ✦ Let's make something that works beyond the demo.
@@ -101,4 +102,4 @@ I enjoy the space where **product strategy, AI, interfaces, and real-world const
 
 **renielgalang.py@gmail.com** &nbsp;·&nbsp; **https://www.linkedin.com/in/reniel-galang-tech-engr**
 
-<sub>Built with curiosity, AI-assisted tools, and a bias toward testing ideas in the real world.</sub>
+<sub>Built through an AI-native workflow, with human judgment and a bias toward testing ideas in the real world.</sub>
