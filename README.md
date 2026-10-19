@@ -46,6 +46,10 @@ I apply this approach while evaluating voice-response latency and testing browse
 
 ![YourAI architecture and kiosk illustration](assets/yourai.svg)
 
+`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Vercel` `Android kiosk` `Voice agents (integration planned)`
+
+**Explore:** Private &nbsp;·&nbsp; **Preview:** https://drive.google.com/file/d/1RwHvEZGLBM6TaHkL6OK54yotTTz_8A8e/view?usp=sharing
+
 **The challenge:** Make an AI receptionist useful in a physical hospitality environment—not just impressive in a browser demo.
 
 **What I've been building:** A React/TypeScript kiosk interface with avatar states, registration and QR/name verification flows backed by Supabase, and cloud-hosted previews tested on a **SUNMI Flex 3 (27-inch, Android)**.
@@ -54,21 +58,17 @@ I apply this approach while evaluating voice-response latency and testing browse
 
 **Current stage:** Kiosk experience and verification flows implemented and reviewed; **ElevenLabs Agents selected for a modular voice-agent integration**. The managed voice-agent integration is not presented here as complete.
 
-`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Vercel` `Android kiosk` `Voice agents (integration planned)`
-
-**Explore:** Private &nbsp;·&nbsp; **Preview:** Private
-
 #### 02 / CalorieCheck — Making food tracking more personal
 
 ![CalorieCheck product illustration](assets/caloriecheck.svg)
 
-**The challenge:** Move beyond one-off calorie estimates toward a useful day-to-day food tracking experience.
-
-**What's done:** CalorieCheck V1 was completed and pushed. **What's next:** V2 is being planned around accounts, personalized estimated calorie targets, deliberate food logging, and daily/weekly progress dashboards.
-
 `Food-calorie application` `Product iteration` `Personalization (planned)` `Daily/weekly tracking (planned)`
 
 **Explore:** https://github.com/Reniel-Relearn/calorie-calculator &nbsp;·&nbsp; **Demo:** https://calorie-calculator-gamma-ten.vercel.app/
+
+**The challenge:** Move beyond one-off calorie estimates toward a useful day-to-day food tracking experience.
+
+**What's done:** CalorieCheck V1 was completed and pushed. **What's next:** V2 is being planned around accounts, personalized estimated calorie targets, deliberate food logging, and daily/weekly progress dashboards.
 
 ### ✦ How I build
 
