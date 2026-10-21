@@ -58,6 +58,10 @@ I apply this approach while evaluating voice-response latency and testing browse
 
 **Current stage:** Kiosk experience and verification flows implemented and reviewed; **ElevenLabs Agents selected for a modular voice-agent integration**. The managed voice-agent integration is not presented here as complete.
 
+`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Vercel` `Android kiosk` `Voice agents (integration planned)`
+
+**Explore:** Private &nbsp;·&nbsp; **Preview:** https://drive.google.com/file/d/1RwHvEZGLBM6TaHkL6OK54yotTTz_8A8e/view?usp=sharing
+
 #### 02 / CalorieCheck — Making food tracking more personal
 
 ![CalorieCheck product illustration](assets/caloriecheck.svg)
