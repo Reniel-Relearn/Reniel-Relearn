@@ -46,6 +46,10 @@ I apply this approach while evaluating voice-response latency and testing browse
 
 ![YourAI architecture and kiosk illustration](assets/yourai.svg)
 
+**Showcase:** [Watch the kiosk walkthrough](https://drive.google.com/file/d/1RwHvEZGLBM6TaHkL6OK54yotTTz_8A8e/view?usp=sharing) 
+
+`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Vercel` `Android kiosk` `Voice agents` `LLM` `Knowledge-Based`
+
 **The challenge:** Make an AI receptionist useful in a physical hospitality environment—not just impressive in a browser demo.
 
 **What I've been building:** A React/TypeScript kiosk interface with avatar states, registration and QR/name verification flows backed by Supabase, and cloud-hosted previews tested on a **SUNMI Flex 3 (27-inch, Android)**.
@@ -62,19 +66,20 @@ I apply this approach while evaluating voice-response latency and testing browse
 
 ![CalorieCheck product illustration](assets/caloriecheck.svg)
 
+`HTML` `CSS` `JavaScript` `Vite` `Supabase` `PostgreSQL` `Vercel`
+
+**Demo:** [Try CalorieCheck](https://calorie-calculator-gamma-ten.vercel.app/) &nbsp;·&nbsp;
+**Repo:** [Contribute to my work](https://github.com/Reniel-Relearn/calorie-calculator)  
+
 **The challenge:** Move beyond one-off calorie estimates toward a useful day-to-day food tracking experience.
 
 **What's done:** CalorieCheck V1 was completed and pushed. **What's next:** V2 is being planned around accounts, personalized estimated calorie targets, deliberate food logging, and daily/weekly progress dashboards.
-
-`Food-calorie application` `Product iteration` `Personalization (planned)` `Daily/weekly tracking (planned)`
-
-**Explore:** https://github.com/Reniel-Relearn/calorie-calculator &nbsp;·&nbsp; **Demo:** https://calorie-calculator-gamma-ten.vercel.app/
 
 ### ✦ How I build
 
 ![My development process from problem definition to verification and iteration](assets/workflow.svg)
 
-I use **ChatGPT for research, requirements, and technical reasoning**, and **OpenAI Codex in VS Code for AI-native development**. My focus is on defining constraints, reviewing outcomes, running practical tests, and deciding what is ready to ship. I don't equate AI-generated code with verified software.
+I utilize **Paid AI tools for research, requirements, and technical reasoning**, and optimize **AI agents in VS Code for AI-native development**. My focus is on defining constraints, reviewing outcomes, running practical tests, and deciding what is ready to ship. I don't equate AI-generated code with verified software. I also maximize tokens and credits use.
 
 | What I care about | What it means in practice |
 | :--- | :--- |
@@ -100,6 +105,7 @@ I use **ChatGPT for research, requirements, and technical reasoning**, and **Ope
 
 I enjoy the space where **product strategy, AI, interfaces, and real-world constraints** meet. If you're building in that space, I'd love to compare notes.
 
-**renielgalang.py@gmail.com** &nbsp;·&nbsp; **https://www.linkedin.com/in/reniel-galang-tech-engr**
+**[📧 Send me an email ^_^](renielgalang.py@gmail.com)**  
+**[➡️ Let's connect at LinkedIn~](https://www.linkedin.com/in/reniel-galang-tech-engr)**
 
 <sub>Built through an AI-native workflow, with human judgment and a bias toward testing ideas in the real world.</sub>
