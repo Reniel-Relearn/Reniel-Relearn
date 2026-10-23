@@ -39,6 +39,6 @@
 <rect x="790" y="308" width="327" height="56" rx="10" fill="#0a2430" stroke="#285566"/>
 <circle cx="815" cy="336" r="5" fill="#7cebc9"/>
 <text x="829" y="334" fill="#e0ebf4" font-family="monospace" font-size="13">deployed preview + device testing</text>
-<text x="829" y="353" fill="#95aebf" font-family="monospace" font-size="12">voice-agent integration: next</text>
+<text x="829" y="353" fill="#95aebf" font-family="monospace" font-size="13">English + Filipino voice agent</text>
 
 </svg>
