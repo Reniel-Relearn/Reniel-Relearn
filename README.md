@@ -48,15 +48,18 @@ I apply this approach while evaluating voice-response latency and testing browse
 
 **Showcase:** [Watch the kiosk walkthrough](https://drive.google.com/file/d/1RwHvEZGLBM6TaHkL6OK54yotTTz_8A8e/view?usp=sharing) 
 
-`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Vercel` `Android kiosk` `Voice agents` `LLM` `Knowledge-Based`
+`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Vercel` `Android kiosk` `ElevenLabs Agents` `Bilingual voice agent` `LLM` `Knowledge-grounded responses`
 
 **The challenge:** Make an AI receptionist useful in a physical hospitality environment—not just impressive in a browser demo.
 
-**What I've been building:** A React/TypeScript kiosk interface with avatar states, registration and QR/name verification flows backed by Supabase, and cloud-hosted previews tested on a **SUNMI Flex 3 (27-inch, Android)**.
+**What I've built:** A React/TypeScript kiosk interface with avatar states, registration and QR/name verification flows backed by Supabase, and cloud-hosted previews tested on a **SUNMI Flex 3 (27-inch, Android)**.
 
-**The engineering questions:** How do you reduce voice-response latency? Recover gracefully when services fail? Keep an LLM from overriding verification? Make a kiosk experience readable, responsive, and reset-safe?
+**Engineering approach:** I separated conversational behavior from
+deterministic verification, integrated an English and Filipino ElevenLabs
+voice agent, and am testing latency, turn-taking, interruption handling,
+failure recovery, and kiosk reset behavior.
 
-**Current stage:** Kiosk experience and verification flows implemented and reviewed; **ElevenLabs Agents selected for a modular voice-agent integration**. The managed voice-agent integration is not presented here as complete.
+**Current stage:** Kiosk experience and verification flows implemented and reviewed; a bilingual ElevenLabs voice agent is now integrated. Voice latency, turn-taking, interruption handling, and device-audio behavior remain under active testing.
 
 #### 02 / CalorieCheck — Making food tracking more personal
 
@@ -75,7 +78,11 @@ I apply this approach while evaluating voice-response latency and testing browse
 
 ![My development process from problem definition to verification and iteration](assets/workflow.svg)
 
-I utilize **Paid AI tools for research, requirements, and technical reasoning**, and optimize **AI agents in VS Code for AI-native development**. My focus is on defining constraints, reviewing outcomes, running practical tests, and deciding what is ready to ship. I don't equate AI-generated code with verified software. I also maximize tokens and credits use.
+I use AI tools for research, requirements, technical reasoning, and
+implementation while keeping architecture, verification, and release
+decisions human-led. I structure tasks for coding agents, review their
+output, and validate behavior through reproducible tests and real-device
+checks.
 
 | What I care about | What it means in practice |
 | :--- | :--- |
@@ -90,7 +97,7 @@ I utilize **Paid AI tools for research, requirements, and technical reasoning**,
 | :--- | :--- |
 | **Web interface** | `React` `TypeScript` `JavaScript` `Vite` `HTML` `CSS` |
 | **Data & services** | `Supabase` `PostgreSQL` `APIs` `Auth` |
-| **AI & voice** | `LLM APIs` `STT/TTS concepts` `ElevenLabs Agents (selected)` `Knowledge-base design` |
+| **AI & voice** | `STT/TTS` `ElevenLabs Agents` `Bilingual voice agent` `LLM APIs` `Knowledge-grounded conversations` |
 | **Cloud & delivery** | `Vercel` `Git` `GitHub` `Preview deployments` |
 | **Development workflow** | `VS Code` `OpenAI Codex` `ChatGPT` `PowerShell` `Markdown specs` |
 | **Devices** | `SUNMI Flex 3` `Android` `Browser-based kiosk UI` |
@@ -101,7 +108,8 @@ I utilize **Paid AI tools for research, requirements, and technical reasoning**,
 
 I enjoy the space where **product strategy, AI, interfaces, and real-world constraints** meet. If you're building in that space, I'd love to compare notes.
 
-**[📧 Send me an email ^_^](renielgalang.py@gmail.com)**  
-**[➡️ Let's connect at LinkedIn~](https://www.linkedin.com/in/reniel-galang-tech-engr)**
+**[📧 Send me an email ^_^](mailto:renielgalang.py@gmail.com)**
+&nbsp;·&nbsp;
+**[➡️ Let's connect on LinkedIn~](https://www.linkedin.com/in/reniel-galang-tech-engr)**
 
 <sub>Built through an AI-native workflow, with human judgment and a bias toward testing ideas in the real world.</sub>
