@@ -1,115 +1,87 @@
-<!--
-GITHUB PROFILE README
-1. Create a PUBLIC repository named exactly [YOUR_GITHUB_USERNAME].
-2. Place this README.md at its root, alongside the assets/ folder.
-3. Replace ALL [BRACKETED_PLACEHOLDERS] before publishing.
-4. Use real links, publicly verifiable details, and genuine project screenshots as you add them.
-5. Keep milestones current; avoid claiming planned integrations are live.
--->
-
 <p align="center">
-  <img src="assets/hero.svg" alt="RENIEL GALANG — AI-native developer. Featured system: YourAI, an intelligent kiosk receptionist." width="100%" />
+  <img src="assets/hero.svg" alt="Reniel Galang — Software Engineering and AI Integration. Secure, customizable, easy-to-use software tailored to business needs. Featured prototype: Yumi (YourAI), a Conversational AI Receptionist for airports, hotels, events, barangay health centers, and more." width="100%" />
 </p>
 
-<p align="center">
-  <strong>Product thinking &nbsp;·&nbsp; System design &nbsp;·&nbsp; Applied AI &nbsp;·&nbsp; Real-world testing</strong>
-</p>
+## Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/reniel-galang-tech-engr">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:renielgalang.py@gmail.com">Email</a>
-</p>
-
-## Hey, I'm Reniel Galang.👋
-
-**I make AI systems faster, safer, easier to change, and ready to test beyond the browser demo.**
-
-I'm an **AI-native developer** drawn to conversational AI, interactive web experiences, and software that meets the physical world. I work from the problem outward: define requirements, question architecture, coordinate implementation with AI coding tools, and test the result against real user journeys.
-
-> **My operating principle:** Let AI handle conversation and accelerate development; keep identity, authorization, and critical business rules deterministic.
-
-### ✦ AI problems I solve
-
-| Problem | How I approach it |
+| Area | Technologies and methods |
 | :--- | :--- |
-| **Slow voice-agent responses** | Reduce time to first audible response, design for streaming, and make turn-taking and interruptions feel natural. |
-| **Voice agents that hear themselves** | Separate playback and microphone states, control turn boundaries, and test interruption behavior so the agent does not treat its own output as a new user request. |
-| **Provider lock-in** | Put voice and LLM providers behind clear interfaces so the product can change services without rewriting the kiosk experience. |
-| **Ungrounded conversations and unsafe actions** | Ground answers in approved knowledge while keeping identity, authorization, and trusted data operations in deterministic application code. |
-| **Unverified AI-native delivery** | Turn requirements into written specifications, reproducible tests, architecture reviews, and human acceptance gates before calling a feature complete. |
+| **Languages** | Python · Java · C/C++ · JavaScript · TypeScript · SQL |
+| **Frontend and desktop** | React · Vite · JavaFX · HTML · CSS |
+| **Backend and databases** | Supabase · PostgreSQL · MySQL · Firebase · REST APIs · JDBC |
+| **AI and voice** | ElevenLabs Agents · Microsoft Foundry · Speech-to-text · Text-to-speech · Knowledge grounding |
+| **Testing, security, deployment** | Playwright · Vitest · Supabase Row Level Security · Cloudflare Turnstile · Vercel |
+| **Development tools** | Git · GitHub · OpenAI Codex · Claude Code |
+| **Embedded systems and vision** | Raspberry Pi · Arduino · OpenCV · YOLOv8 · NFC · GPS |
 
-I apply this approach while evaluating voice-response latency and testing browser and **SUNMI kiosk** builds. My testing foundation also includes **2,188 documented manual test results across 21 categories** for a cloud-connected embedded system.
+## Selected Projects
 
-### ✦ Selected work
+### 01 / CalorieCheck — Nutrition Tracker
 
-#### 01 / YourAI — An AI receptionist that lives on a kiosk
+`JavaScript / TypeScript` `Vite` `Supabase / PostgreSQL` `Turnstile` `Vercel`
 
-![YourAI architecture and kiosk illustration](assets/yourai.svg)
+[Staging demo](https://calorie-calculator-gamma-ten.vercel.app/) · [Repository](https://github.com/Reniel-Relearn/calorie-calculator)
 
-**Showcase:** [Watch the kiosk walkthrough](https://drive.google.com/file/d/1RwHvEZGLBM6TaHkL6OK54yotTTz_8A8e/view?usp=sharing) 
+- **Problem:** Move from one-off calorie estimates to personal food tracking with protected user records.
+- **My contribution:** Defined requirements, guided AI-assisted implementation, configured authentication and database access policies, integrated Turnstile, and manually tested workflows.
+- **Result:** Deployed a mobile-first staging prototype with calorie calculations, accounts, and food logs; conducted usability validation with **three users**.
 
-`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Vercel` `Android kiosk` `ElevenLabs Agents` `Bilingual voice agent` `LLM` `Knowledge-grounded responses`
+### 02 / EZ Kyosk — Self-Ordering Kiosk
 
-**The challenge:** Make an AI receptionist useful in a physical hospitality environment—not just impressive in a browser demo.
+`React` `JavaScript` `Vite` `Vitest` `Playwright`
 
-**What I've built:** A React/TypeScript kiosk interface with avatar states, registration and QR/name verification flows backed by Supabase, and cloud-hosted previews tested on a **SUNMI Flex 3 (27-inch, Android)**.
+[Live web prototype](https://reniel-relearn.github.io/EZ-Kyosk/) · [Repository](https://github.com/Reniel-Relearn/EZ-Kyosk)
 
-**Engineering approach:** I separated conversational behavior from
-deterministic verification, integrated an English and Filipino ElevenLabs
-voice agent, and am testing latency, turn-taking, interruption handling,
-failure recovery, and kiosk reset behavior.
+- **Problem:** Give cafés, bakeries, and restaurants a focused self-ordering experience.
+- **My contribution:** Defined architecture, customer journeys, technology choices, deployment requirements, and acceptance criteria; coordinated AI-assisted implementation and manually tested ordering.
+- **Result:** Helped deliver a functional prototype in **one day** and identified **two defects** that were fixed. POS hardware and payment-gateway integration remain pending.
 
-**Current stage:** Kiosk experience and verification flows implemented and reviewed; a bilingual ElevenLabs voice agent is now integrated. Voice latency, turn-taking, interruption handling, and device-audio behavior remain under active testing.
+### 03 / AFCS — Automated Fare Collection System
 
-#### 02 / CalorieCheck — Making food tracking more personal
+`Python / JavaScript` `Raspberry Pi` `NFC / GPS` `Firebase` `REST APIs`
 
-![CalorieCheck product illustration](assets/caloriecheck.svg)
+[Repository](https://github.com/Reniel-Relearn/capstone-design-project-AFCS) · Academic capstone
 
-`HTML` `CSS` `JavaScript` `Vite` `Supabase` `PostgreSQL` `Vercel`
+- **Problem:** Connect fare calculation, authentication, location, seat allocation, hardware, and passenger/driver/admin interfaces.
+- **My contribution:** Led a **five-member team**, developed embedded software, integrated hardware and cloud services, and troubleshot GPS instability through circuit, wiring, and satellite-acquisition software changes.
+- **Result:** Executed tests across **21 categories** and consolidated **2,188 results**; **2,156 passed (98.54%)**.
 
-**Demo:** [Try CalorieCheck](https://calorie-calculator-gamma-ten.vercel.app/) &nbsp;·&nbsp;
-**Repo:** [Contribute to my work](https://github.com/Reniel-Relearn/calorie-calculator)  
+### 04 / LaundryLink — Laundry Shop Management
 
-**The challenge:** Move beyond one-off calorie estimates toward a useful day-to-day food tracking experience.
+`Java` `JavaFX` `JDBC` `MySQL`
 
-**What's done:** CalorieCheck V1 was completed and pushed. **What's next:** V2 is being planned around accounts, personalized estimated calorie targets, deliberate food logging, and daily/weekly progress dashboards.
+[Team repository](https://github.com/stagnantwater69/LaundryLink)
 
-### ✦ How I build
+- **Problem:** Keep a shared desktop application and its relational database consistent during team development.
+- **My contribution:** Executed schema migrations across **eight tables and one view**, coordinated AI-assisted implementation of the Services and Prices module, and performed acceptance testing.
+- **Result:** Identified an order-status usability defect and retested a teammate's correction to confirm resolution.
 
-![My development process from problem definition to verification and iteration](assets/workflow.svg)
+<details>
+<summary><strong>More projects and repositories</strong></summary>
 
-I use AI tools for research, requirements, technical reasoning, and
-implementation while keeping architecture, verification, and release
-decisions human-led. I structure tasks for coding agents, review their
-output, and validate behavior through reproducible tests and real-device
-checks.
+**Applied AI and software:** [Company Policy Assistant](https://github.com/Reniel-Relearn/company-policy-assistant) — Python/Microsoft Foundry with grounded knowledge; [AI Audio Threat Detector](https://github.com/Reniel-Relearn/ai-audio-threat-detector) — bilingual transcription, summaries, and flags for human review; [Life Creation](https://github.com/Reniel-Relearn/life-creation) — Python survival game.
 
-| What I care about | What it means in practice |
-| :--- | :--- |
-| **AI latency is user experience** | Design for responsiveness, interruptions, and clear states while services process requests. |
-| **Trust boundaries matter** | Keep database permissions and identity checks outside free-form model decisions. |
-| **Failure paths are product features** | Plan for offline states, mismatches, retries, permission denials, and clean resets. |
-| **Real devices reveal real problems** | Validate touch, audio, fullscreen behavior, and readability on target hardware. |
+**Embedded systems and IoT:** [ATM Banking System](https://github.com/Reniel-Relearn/atm-banking-system) · [PanahonCheck](https://github.com/Reniel-Relearn/panahoncheck-weather-monitoring) · [Smart Glass Helmet](https://github.com/Reniel-Relearn/smart-glass-helmet) · [Wearable Air Quality Detector](https://github.com/Reniel-Relearn/wearable-air-quality-detector) · [Anti-Theft Bag Alarm](https://github.com/Reniel-Relearn/anti-theft-bag-alarm) · [Smart Door Status Indicator](https://github.com/Reniel-Relearn/smart-door-status-indicator) · [Intruder Alert System](https://github.com/Reniel-Relearn/intruder-alert-system)
 
-### ✦ Technologies in my projects
+**Coursework:** [Digital Signal Processing](https://github.com/Reniel-Relearn/dsp-matplotlib-activities) · [Assembly Lab Exercises](https://github.com/Reniel-Relearn/assembly-lab-exercises)
 
-| Area | Stack & tools |
-| :--- | :--- |
-| **Web interface** | `React` `TypeScript` `JavaScript` `Vite` `HTML` `CSS` |
-| **Data & services** | `Supabase` `PostgreSQL` `APIs` `Auth` |
-| **AI & voice** | `STT/TTS` `ElevenLabs Agents` `Bilingual voice agent` `LLM APIs` `Knowledge-grounded conversations` |
-| **Cloud & delivery** | `Vercel` `Git` `GitHub` `Preview deployments` |
-| **Development workflow** | `VS Code` `OpenAI Codex` `ChatGPT` `PowerShell` `Markdown specs` |
-| **Devices** | `SUNMI Flex 3` `Android` `Browser-based kiosk UI` |
+</details>
 
----
+## Problems I Work On & How I Build
 
-### ✦ Let's make something that works beyond the demo.
+![Workflow: define requirements, design boundaries, build with AI assistance, verify, and iterate](assets/workflow.svg)
 
-I enjoy the space where **product strategy, AI, interfaces, and real-world constraints** meet. If you're building in that space, I'd love to compare notes.
+I define specifications and acceptance criteria, review architecture and AI-assisted implementation, run reproducible checks and real-device tests, and retest fixes before acceptance.
 
-**[📧 Send me an email ^_^](mailto:renielgalang.py@gmail.com)**
-&nbsp;·&nbsp;
-**[➡️ Let's connect on LinkedIn~](https://www.linkedin.com/in/reniel-galang-tech-engr)**
+- **Slow voice responses — Yumi:** Configured ElevenLabs, refined prompts and knowledge sources, integrated Supabase/Vercel, and tested on a SUNMI kiosk. **Result:** Observed prototype response time improved from **8–10s to 2–4s**. Used in two internal demos and two client presentations; no confirmed production client deployment.
+- **Conflicting audio, video, and orders — AI Bartender:** Used structured event logs and repeated test–fix–retest cycles. **Result:** Resolved missing/incorrect videos, repeated orders, wrong drink selection, overlapping responses, and agent speech during playback in the demonstrated prototype.
+- **Grounded answers and trusted operations:** Integrated a knowledge-base-grounded KPI chatbot; kept receptionist identity checks, authorization, and database operations in deterministic application logic. **Result:** KPI prototype presented; receptionist security controls and kiosk workflows tested.
+- **Responsive website presentation:** Coordinated AI-assisted development and iteratively reviewed layouts and visual elements for a towing/hauling website. **Result:** Website developed; production status unverified. Client branding and public links await authorization.
 
-<sub>Built through an AI-native workflow, with human judgment and a bias toward testing ideas in the real world.</sub>
+**Ongoing engineering work:** Preventing voice agents from hearing their own output, testing streaming responses, refining turn-taking and interruptions, and designing provider interfaces that reduce switching effort. These remain testing priorities and design goals rather than completed results. Client identities, private repositories, and internal materials remain confidential.
+
+## Let's Build Something Useful
+
+Have a business challenge, a product idea, or an investment or collaboration opportunity? I'd welcome a conversation about software and AI integration tailored to your needs.
+
+**[Email me](mailto:renielgalang.py@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/reniel-galang-tech-engr)**
