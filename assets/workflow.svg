@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="workflow-title workflow-description">
-  <title id="workflow-title">How I build: define, design, build, verify, and iterate</title>
-  <desc id="workflow-description">Define requirements. Design trust boundaries. Build with AI assistance. Verify with tests and real devices. Retest and refine.</desc>
+  <title id="workflow-title">How I build: understand, plan, implement, test, and improve</title>
+  <desc id="workflow-description">Understand business needs. Plan architecture and security. Implement with AI assistance. Test features and failure paths. Improve through fixes and retesting.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07101e"/>
@@ -14,7 +14,7 @@
   </defs>
   <rect width="1200" height="220" rx="24" fill="url(#background)"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="32" y="38" fill="#a6c2d2" font-size="15" font-weight="700" letter-spacing="1.2">HOW I BUILD / HUMAN-DIRECTED, EVIDENCE-LED</text>
+    <text x="32" y="38" fill="#a6c2d2" font-size="15" font-weight="700" letter-spacing="1.2">HOW I BUILD / FROM BUSINESS NEEDS TO TESTED SOFTWARE</text>
     <g fill="#132d3c" stroke="#315566">
       <rect x="32" y="64" width="208" height="120" rx="14"/>
       <rect x="264" y="64" width="208" height="120" rx="14"/>
@@ -31,11 +31,11 @@
     <g fill="#7cebc9" font-size="15" font-weight="700">
       <text x="50" y="96">01</text><text x="282" y="96">02</text><text x="514" y="96">03</text><text x="746" y="96">04</text><text x="978" y="96">05</text>
     </g>
-    <g fill="url(#accent)" font-size="23" font-weight="700">
-      <text x="50" y="128">DEFINE</text><text x="282" y="128">DESIGN</text><text x="514" y="128">BUILD</text><text x="746" y="128">VERIFY</text><text x="978" y="128">ITERATE</text>
+    <g fill="url(#accent)" font-size="21" font-weight="700">
+      <text x="50" y="128">UNDERSTAND</text><text x="282" y="128">PLAN</text><text x="514" y="128">IMPLEMENT</text><text x="746" y="128">TEST</text><text x="978" y="128">IMPROVE</text>
     </g>
     <g fill="#b9ccdc" font-size="16">
-      <text x="50" y="158">Requirements</text><text x="282" y="158">Trust boundaries</text><text x="514" y="158">AI-assisted code</text><text x="746" y="158">Tests + real devices</text><text x="978" y="158">Retest + refine</text>
+      <text x="50" y="158">Business needs</text><text x="282" y="158">Architecture + security</text><text x="514" y="158">AI-assisted development</text><text x="746" y="158">Features + failure paths</text><text x="978" y="158">Fix, retest, refine</text>
     </g>
   </g>
 </svg>

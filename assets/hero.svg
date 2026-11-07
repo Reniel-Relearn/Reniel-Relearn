@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="hero-title hero-description">
   <title id="hero-title">Reniel Galang — Software Engineering and AI Integration</title>
-  <desc id="hero-description">Hello, I'm Reniel Galang. I turn complex business challenges into secure, customizable, and easy-to-use software solutions tailored to your needs. Full Stack. AI Specialist. Custom Solutions. Currently building Yumi (YourAI), a Conversational AI Receptionist for airports, hotels, events, barangay health centers, and more. Streamline ID verification. Customizable Kiosk. Faster General Inquiries.</desc>
+  <desc id="hero-description">Hello there. I am Reniel Galang. I turn complex business challenges into secure, customizable, and easy-to-use software solutions tailored to your needs. Full Stack. AI Specialist. Custom Solutions. Currently building Yumi (YourAI), a Conversational AI Receptionist for airports, hotels, events, barangay health centers, and more. Streamline ID verification. Customizable Kiosk. Faster General Inquiries.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07101e"/>
@@ -31,8 +31,9 @@
 
   <!-- Identity, role, value, and capabilities share one left alignment. -->
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="48" y="76" fill="url(#accent)" font-size="22" font-weight="700">Hello, I'm</text>
-    <text x="48" y="140" fill="url(#accent)" font-size="66" font-weight="800" letter-spacing="-2.6">RENIEL GALANG</text>
+    <text x="48" y="46" fill="url(#accent)" font-size="22" font-weight="700">Hello there <tspan font-family="Segoe UI Emoji, sans-serif">👋</tspan></text>
+    <text x="48" y="78" fill="url(#accent)" font-size="18">I am</text>
+    <text x="48" y="150" fill="url(#accent)" font-size="66" font-weight="800" letter-spacing="-2.6">RENIEL GALANG</text>
     <text x="48" y="188" fill="url(#accent)" font-size="22" font-weight="700" letter-spacing=".7">SOFTWARE ENGINEERING + AI INTEGRATION</text>
 
     <text x="48" y="242" fill="url(#accent)" font-size="22">

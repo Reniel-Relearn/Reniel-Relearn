@@ -7,13 +7,13 @@
 | Area | Technologies and methods |
 | :--- | :--- |
 | **Languages** | Python · Java · C/C++ · JavaScript · TypeScript · SQL |
-| **Frontend & UI Tools** | React · Vite · JavaFX · HTML · CSS |
-| **Backend & Databases** | Supabase · PostgreSQL · MySQL · Firebase · REST APIs · JDBC |
-| **AI Platforms** | Azure AI Foundry (Microsoft Foundry) · ElevenLabs Agents |
-| **AI Integration** | Knowledge Bases · System Prompts · Speech-to-text · Text-to-speech |
-| **Testing, Security & Deployment** | Playwright · Vitest · Supabase Row Level Security · Cloudflare Turnstile · Vercel WAF (Web Application Firewall) · Vercel |
-| **Development Tools** | Git · GitHub · OpenAI Codex · Claude Code |
-| **Embedded & IoT** | Raspberry Pi · Arduino · ESP32 · MQTT · BLE · Wi-Fi |
+| **Frontend & UI Tools** | React · Next.js · Tailwind CSS · Vite · JavaFX · HTML · CSS |
+| **Backend & Databases** | Supabase · PostgreSQL · MySQL · Firebase · Pinecone · Prisma ORM · REST APIs · JDBC |
+| **AI Platforms & Runtimes** | Microsoft Foundry · ElevenLabs Agents · D-ID Studio · GroqCloud · Ollama |
+| **AI Integration & Automation** | Knowledge Bases · System Prompts · Whisper · Speech-to-text · Text-to-speech · n8n |
+| **Testing & Security** | Playwright · Vitest · pytest · Supabase Row Level Security · Cloudflare Turnstile · WAF |
+| **Development & Deployment Tools** | Git · GitHub · Docker · Vercel · OpenAI Codex · Claude Code |
+| **Embedded & IoT** | Raspberry Pi · Arduino · ESP32-S3 · MQTT · BLE · Wi-Fi |
 | **Firmware & Interfaces** | Finite-state machines · GPIO · UART · I²C · SPI · NFC · GPS |
 | **Computer Vision** | OpenCV · YOLOv8 |
 
@@ -65,8 +65,9 @@
 **Applied AI & Software**
 
 1. [Company Policy Assistant](https://github.com/Reniel-Relearn/company-policy-assistant) — Azure AI Foundry and a policy knowledge base.
-2. [AI Audio Threat Detector](https://github.com/Reniel-Relearn/ai-audio-threat-detector) — Bilingual transcription, summaries, and flags for human review.
+2. [AI Audio Threat Detector](https://github.com/Reniel-Relearn/ai-audio-threat-detector) — Bilingual transcription with faster-whisper and local analysis with Ollama; Pydantic validates structured results for human review.
 3. [Life Creation](https://github.com/Reniel-Relearn/life-creation) — Python survival game.
+4. [CEO KPI Dashboard](https://github.com/Reniel-Relearn/ai-kpi-dashboards-showcase) — Executive analytics prototype with a grounded chatbot; Vercel AI SDK handles model integration, Zod defines AI-tool input schemas, and Prisma handles database access.
 
 **Embedded Systems & IoT**
 
@@ -80,26 +81,25 @@
 
 **Coursework**
 
-1. [Digital Signal Processing](https://github.com/Reniel-Relearn/dsp-matplotlib-activities)
+1. [Digital Signal Processing](https://github.com/Reniel-Relearn/dsp-matplotlib-activities) — Signal generation and processing with NumPy and Matplotlib.
 2. [Assembly Lab Exercises](https://github.com/Reniel-Relearn/assembly-lab-exercises)
 
 </details>
 
-## Problems I Work On & How I Build
+## How I Build
 
-![Workflow: define requirements, design boundaries, build with AI assistance, verify, and iterate](assets/workflow.svg)
+![How I build: understand business needs, plan architecture and security, implement, test, and improve](assets/workflow.svg)
 
 I define specifications and acceptance criteria, review architecture and AI-assisted implementation, run reproducible checks and real-device tests, and retest fixes before acceptance.
 
-- **Slow voice responses — Yumi:** Configured ElevenLabs, refined prompts and knowledge sources, integrated Supabase/Vercel, and tested on a SUNMI kiosk. **Result:** Observed prototype response time improved from **8–10s to 2–4s**. Used in two internal demos and two client presentations; no confirmed production client deployment.
-- **Conflicting audio, video, and orders — AI Bartender:** Used structured event logs and repeated test–fix–retest cycles. **Result:** Resolved missing/incorrect videos, repeated orders, wrong drink selection, overlapping responses, and agent speech during playback in the demonstrated prototype.
-- **Grounded answers and trusted operations:** Integrated a knowledge-base-grounded KPI chatbot; kept receptionist identity checks, authorization, and database operations in deterministic application logic. **Result:** KPI prototype presented; receptionist security controls and kiosk workflows tested.
-- **Responsive website presentation:** Coordinated AI-assisted development and iteratively reviewed layouts and visual elements for a towing/hauling website. **Result:** Website developed; production status unverified. Client branding and public links await authorization.
+## Problems I Work On
 
-**Ongoing engineering work:** Preventing voice agents from hearing their own output, testing streaming responses, refining turn-taking and interruptions, and designing provider interfaces that reduce switching effort. These remain testing priorities and design goals rather than completed results. Client identities, private repositories, and internal materials remain confidential.
+![Engineering case studies: voice latency, AI Bartender playback and orders, grounded answers and trusted operations, and CalorieCheck security controls using Turnstile, authentication, Row Level Security, and WAF rules. Yumi's observed prototype response time improved from 8–10s to 2–4s.](assets/problems.svg)
+
+I work on faster voice responses, reliable playback and ordering, grounded AI answers with controlled access, and layered web application security.
 
 ## Let's Build Something Useful
 
-[![Reniel Galang's business card — software engineering and AI integration. Email renielgalang.py@gmail.com to discuss business, investment, or collaboration opportunities.](assets/contact.svg)](mailto:renielgalang.py@gmail.com)
+Email me at [renielgalang.py@gmail.com](mailto:renielgalang.py@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/reniel-galang-tech-engr).
 
-**[Email me](mailto:renielgalang.py@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/reniel-galang-tech-engr)**
+[![Reniel Galang's business card — software engineering and AI integration. Email renielgalang.py@gmail.com to discuss business, investment, or collaboration opportunities.](assets/contact.svg)](mailto:renielgalang.py@gmail.com)
