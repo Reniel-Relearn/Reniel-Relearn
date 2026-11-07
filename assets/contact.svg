@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="contact-title contact-description">
+  <title id="contact-title">Contact Reniel Galang — Software Engineering and AI Integration</title>
+  <desc id="contact-description">Have a business challenge, product idea, or investment or collaboration opportunity? I'd welcome a conversation. Email renielgalang.py@gmail.com or connect on LinkedIn at linkedin.com/in/reniel-galang-tech-engr.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07101e"/>
+      <stop offset=".55" stop-color="#0b1b2b"/>
+      <stop offset="1" stop-color="#071321"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7cebc9"/>
+      <stop offset="1" stop-color="#69bdf7"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9ab9cc" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="28" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="url(#accent)">
+    <text x="48" y="80" font-size="42" font-weight="800" letter-spacing="-.8">Reniel Galang</text>
+    <text x="48" y="117" font-size="22" font-weight="700">Software Engineering + AI Integration</text>
+    <text x="48" y="174" font-size="21">
+      <tspan x="48">Have a business challenge, product idea,</tspan>
+      <tspan x="48" dy="30">or investment or collaboration opportunity?</tspan>
+    </text>
+    <text x="48" y="250" font-size="21">I'd welcome a conversation.</text>
+  </g>
+  <rect x="720" y="36" width="432" height="228" rx="20" fill="#0d1d2c" stroke="#315566" stroke-width="1.5"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="url(#accent)">
+    <text x="752" y="82" font-size="12" font-weight="700" letter-spacing="1.5">EMAIL</text>
+    <text x="752" y="116" font-size="22">renielgalang.py@gmail.com</text>
+    <path d="M752 150H1120" stroke="#294858"/>
+    <text x="752" y="188" font-size="12" font-weight="700" letter-spacing="1.5">LINKEDIN</text>
+    <text x="752" y="222" font-size="22">in/reniel-galang-tech-engr</text>
+  </g>
+</svg>

@@ -7,12 +7,15 @@
 | Area | Technologies and methods |
 | :--- | :--- |
 | **Languages** | Python · Java · C/C++ · JavaScript · TypeScript · SQL |
-| **Frontend and desktop** | React · Vite · JavaFX · HTML · CSS |
-| **Backend and databases** | Supabase · PostgreSQL · MySQL · Firebase · REST APIs · JDBC |
-| **AI and voice** | ElevenLabs Agents · Microsoft Foundry · Speech-to-text · Text-to-speech · Knowledge grounding |
-| **Testing, security, deployment** | Playwright · Vitest · Supabase Row Level Security · Cloudflare Turnstile · Vercel |
-| **Development tools** | Git · GitHub · OpenAI Codex · Claude Code |
-| **Embedded systems and vision** | Raspberry Pi · Arduino · OpenCV · YOLOv8 · NFC · GPS |
+| **Frontend & UI Tools** | React · Vite · JavaFX · HTML · CSS |
+| **Backend & Databases** | Supabase · PostgreSQL · MySQL · Firebase · REST APIs · JDBC |
+| **AI Platforms** | Azure AI Foundry (Microsoft Foundry) · ElevenLabs Agents |
+| **AI Integration** | Knowledge Bases · System Prompts · Speech-to-text · Text-to-speech |
+| **Testing, Security & Deployment** | Playwright · Vitest · Supabase Row Level Security · Cloudflare Turnstile · Vercel WAF (Web Application Firewall) · Vercel |
+| **Development Tools** | Git · GitHub · OpenAI Codex · Claude Code |
+| **Embedded & IoT** | Raspberry Pi · Arduino · ESP32 · MQTT · BLE · Wi-Fi |
+| **Firmware & Interfaces** | Finite-state machines · GPIO · UART · I²C · SPI · NFC · GPS |
+| **Computer Vision** | OpenCV · YOLOv8 |
 
 ## Selected Projects
 
@@ -57,13 +60,28 @@
 - **Result:** Identified an order-status usability defect and retested a teammate's correction to confirm resolution.
 
 <details>
-<summary><strong>More projects and repositories</strong></summary>
+<summary><strong>More Projects</strong></summary>
 
-**Applied AI and software:** [Company Policy Assistant](https://github.com/Reniel-Relearn/company-policy-assistant) — Python/Microsoft Foundry with grounded knowledge; [AI Audio Threat Detector](https://github.com/Reniel-Relearn/ai-audio-threat-detector) — bilingual transcription, summaries, and flags for human review; [Life Creation](https://github.com/Reniel-Relearn/life-creation) — Python survival game.
+**Applied AI & Software**
 
-**Embedded systems and IoT:** [ATM Banking System](https://github.com/Reniel-Relearn/atm-banking-system) · [PanahonCheck](https://github.com/Reniel-Relearn/panahoncheck-weather-monitoring) · [Smart Glass Helmet](https://github.com/Reniel-Relearn/smart-glass-helmet) · [Wearable Air Quality Detector](https://github.com/Reniel-Relearn/wearable-air-quality-detector) · [Anti-Theft Bag Alarm](https://github.com/Reniel-Relearn/anti-theft-bag-alarm) · [Smart Door Status Indicator](https://github.com/Reniel-Relearn/smart-door-status-indicator) · [Intruder Alert System](https://github.com/Reniel-Relearn/intruder-alert-system)
+1. [Company Policy Assistant](https://github.com/Reniel-Relearn/company-policy-assistant) — Azure AI Foundry and a policy knowledge base.
+2. [AI Audio Threat Detector](https://github.com/Reniel-Relearn/ai-audio-threat-detector) — Bilingual transcription, summaries, and flags for human review.
+3. [Life Creation](https://github.com/Reniel-Relearn/life-creation) — Python survival game.
 
-**Coursework:** [Digital Signal Processing](https://github.com/Reniel-Relearn/dsp-matplotlib-activities) · [Assembly Lab Exercises](https://github.com/Reniel-Relearn/assembly-lab-exercises)
+**Embedded Systems & IoT**
+
+1. [ATM Banking System](https://github.com/Reniel-Relearn/atm-banking-system)
+2. [PanahonCheck](https://github.com/Reniel-Relearn/panahoncheck-weather-monitoring)
+3. [Smart Glass Helmet](https://github.com/Reniel-Relearn/smart-glass-helmet)
+4. [Wearable Air Quality Detector](https://github.com/Reniel-Relearn/wearable-air-quality-detector)
+5. [Anti-Theft Bag Alarm](https://github.com/Reniel-Relearn/anti-theft-bag-alarm)
+6. [Smart Door Status Indicator](https://github.com/Reniel-Relearn/smart-door-status-indicator)
+7. [Intruder Alert System](https://github.com/Reniel-Relearn/intruder-alert-system)
+
+**Coursework**
+
+1. [Digital Signal Processing](https://github.com/Reniel-Relearn/dsp-matplotlib-activities)
+2. [Assembly Lab Exercises](https://github.com/Reniel-Relearn/assembly-lab-exercises)
 
 </details>
 
@@ -82,6 +100,6 @@ I define specifications and acceptance criteria, review architecture and AI-assi
 
 ## Let's Build Something Useful
 
-Have a business challenge, a product idea, or an investment or collaboration opportunity? I'd welcome a conversation about software and AI integration tailored to your needs.
+[![Reniel Galang's business card — software engineering and AI integration. Email renielgalang.py@gmail.com to discuss business, investment, or collaboration opportunities.](assets/contact.svg)](mailto:renielgalang.py@gmail.com)
 
 **[Email me](mailto:renielgalang.py@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/reniel-galang-tech-engr)**
