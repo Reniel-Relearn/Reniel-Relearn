@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Reniel Galang — Software Engineering and AI Integration. Secure, customizable, easy-to-use software tailored to business needs. Featured prototype: Yumi (YourAI), a Conversational AI Receptionist for airports, hotels, events, barangay health centers, and more." width="100%" />
+  <img src="assets/hero.svg" alt="Reniel Galang — Full-Stack Developer | AI Integration. Custom Solutions, Security-Conscious Development, and Software Engineering. Secure, customizable, easy-to-use software tailored to business needs. Featured prototype: Yumi (YourAI), a Conversational AI Receptionist for airports, hotels, events, barangay health centers, and more." width="100%" />
 </p>
 
 ## Tech Stack
@@ -100,6 +100,6 @@ I work on faster voice responses, reliable playback and ordering, grounded AI an
 
 ## Let's Build Something Useful
 
-Email me at [renielgalang.py@gmail.com](mailto:renielgalang.py@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/reniel-galang-tech-engr).
+Email me at [renielgalang.py@gmail.com](mailto:renielgalang.py@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/reniel-galang-tech-engr), or message me on [WhatsApp](https://wa.me/639925152549) or Viber at **+(63) 992-515-2549**.
 
-[![Reniel Galang's business card — software engineering and AI integration. Email renielgalang.py@gmail.com to discuss business, investment, or collaboration opportunities.](assets/contact.svg)](mailto:renielgalang.py@gmail.com)
+![Custom software built for your business. Email renielgalang.py@gmail.com or message on Viber or WhatsApp at +639925152549. Contact links are above.](assets/contact.svg)

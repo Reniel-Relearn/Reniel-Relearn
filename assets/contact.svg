@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="contact-title contact-description">
-  <title id="contact-title">Contact Reniel Galang — Software Engineering and AI Integration</title>
-  <desc id="contact-description">Have a business challenge, product idea, or investment or collaboration opportunity? I'd welcome a conversation. Email renielgalang.py@gmail.com or connect on LinkedIn at linkedin.com/in/reniel-galang-tech-engr.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="contact-title contact-description">
+  <title id="contact-title">Custom software built for your business</title>
+  <desc id="contact-description">Custom software for your business. Let's turn your problems and challenges into secure, practical, and easy-to-use software solutions. Email renielgalang.py@gmail.com. Phone: (+63) 992-515-2549. LinkedIn: linkedin.com/in/reniel-galang-tech-engr. Clickable contact links are provided in the surrounding README text.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07101e"/>
@@ -15,23 +15,64 @@
       <path d="M40 0H0V40" fill="none" stroke="#9ab9cc" stroke-opacity=".045"/>
     </pattern>
   </defs>
-  <rect width="1200" height="300" rx="28" fill="url(#background)"/>
-  <rect width="1200" height="300" rx="28" fill="url(#grid)"/>
-  <g font-family="Arial, Helvetica, sans-serif" fill="url(#accent)">
-    <text x="48" y="80" font-size="42" font-weight="800" letter-spacing="-.8">Reniel Galang</text>
-    <text x="48" y="117" font-size="22" font-weight="700">Software Engineering + AI Integration</text>
-    <text x="48" y="174" font-size="21">
-      <tspan x="48">Have a business challenge, product idea,</tspan>
-      <tspan x="48" dy="30">or investment or collaboration opportunity?</tspan>
-    </text>
-    <text x="48" y="250" font-size="21">I'd welcome a conversation.</text>
+  <rect width="1200" height="420" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <!-- Existing CRT artwork retained; larger left illustration and right-aligned copy. -->
+  <g transform="translate(72 76) scale(1.7)" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Stand behind the casing; parallel edges keep the cabinet depth consistent. -->
+    <path d="M43 91 40 109h30l-6-20M40 109l-16 8h65l-19-8Z" fill="#17394b" stroke="#69bdf7" stroke-width="2"/>
+    <g transform="rotate(-8 52 49)">
+    <path d="M-16 15 0 5v88l-16 10Z" fill="#102b3c" stroke="#69bdf7" stroke-width="2"/>
+    <path d="M0 93h104l-16 10H-16Z" fill="#102b3c" stroke="#69bdf7" stroke-width="2"/>
+    <rect x="0" y="5" width="104" height="88" rx="3" fill="#17394b" stroke="#69bdf7" stroke-width="2"/>
+    <path d="M11 29q0-8 9-9l58-1q10 0 10 10v40q0 9-10 10l-57 1q-10 0-10-10Z" fill="#07101e" stroke="#315566" stroke-width="2"/>
+    <!-- Continuous fine, noisy baseline and asymmetric heart outline. -->
+    <path d="M13 63 15 62 16 64 17 61 18 63 20 62 21 65 22 61 24 64 25 63 27 66 28 62 30 64 31 63 33 65 34 62 36 64 37 63 39 65 40 62 42 64 43 63 45 65 47 63 49 64 51 63 49 61 47 60 46 58 44 57 45 55 42 54 43 52 40 51 41 49 38 48 39 46 37 44 38 42 35 40 36 38 34 36 35 34 34 32 36 30 38 31 38 28 41 29 42 26 44 28 46 27 48 30 49 29 51 33 52 37 54 38 55 40 56 35 58 35 58 31 61 32 62 28 64 30 66 30 67 32 70 31 71 33 74 34 75 37 77 37 76 40 75 42 76 44 73 45 74 48 71 49 72 51 69 52 70 55 67 55 67 58 64 58 63 61 60 61 58 63 56 64 54 66 52 64 54 63 57 64 59 62 61 64 63 63 65 65 67 62 69 64 71 62 73 64 75 63 77 65 79 61 80 63 82 62 84 64 87 62" fill="none" stroke="#7cebc9" stroke-width="1.1"/>
+    <circle cx="-7" cy="23" r="2" fill="#7cebc9"/>
+    <circle cx="-7" cy="33" r="2" fill="#69bdf7"/>
+    <path d="M-9 61h4m-4 7h4m-4 7h4" stroke="#69bdf7" stroke-width="2"/>
+    </g>
+    <!-- Foreground arms and hands are drawn after the casing, not behind it. -->
+    <g fill="none" stroke="#69bdf7" stroke-width="4">
+      <path d="M-7 69-18 84q-6 10 6 10l51-2"/>
+      <path d="M108 70 140 87q7 4 8-5l5-24"/>
+    </g>
+    <g fill="#17394b" stroke="#69bdf7" stroke-width="1.8">
+      <circle cx="-19.5" cy="91.5" r="4"/>
+      <circle cx="145" cy="86" r="4"/>
+      <!-- Resting hand: thumb above the palm, three separate rounded fingertips. -->
+      <path transform="translate(20 -18)" d="M18 106q-3-7 1-9 3-1 5 4l2 4 9-2q6-1 7 2 1 3-4 4l-10 2h11q5 0 4 3 0 3-4 3l-12-1 8 4q4 3 1 5-2 1-6-1l-9-5q-5-4-3-13Z"/>
+      <g transform="translate(151 49) scale(.72) translate(-151 -49)">
+        <!-- Viewer-facing palm: raised index, two curled finger pads, and a thumb crossing the palm. -->
+        <path d="M145 49V31q0-4 4-4t4 4v12q3-4 7-2 3 1 3 5 4-2 6 2v7q0 7-9 9h-10q-6-1-8-6l-6-8q-3-4 1-6 4-1 8 5Z"/>
+        <path d="M153 44v6q0 4 4 4t4-4v-4m0 2v4q0 4 4 4t4-4" fill="none"/>
+        <path d="M142 49q5 0 9 5 3 4 8 2m-11 4q4-3 8-1" fill="none" stroke-width="1.4"/>
+      </g>
+    </g>
   </g>
-  <rect x="720" y="36" width="432" height="228" rx="20" fill="#0d1d2c" stroke="#315566" stroke-width="1.5"/>
   <g font-family="Arial, Helvetica, sans-serif" fill="url(#accent)">
-    <text x="752" y="82" font-size="12" font-weight="700" letter-spacing="1.5">EMAIL</text>
-    <text x="752" y="116" font-size="22">renielgalang.py@gmail.com</text>
-    <path d="M752 150H1120" stroke="#294858"/>
-    <text x="752" y="188" font-size="12" font-weight="700" letter-spacing="1.5">LINKEDIN</text>
-    <text x="752" y="222" font-size="22">in/reniel-galang-tech-engr</text>
+    <text x="416" y="108" font-size="60" font-weight="800" letter-spacing="-1">Custom Software</text>
+    <text x="416" y="180" font-size="60" font-weight="800" letter-spacing="-1">for Your Business</text>
+    <path d="M420 214h116" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+    <text x="416" y="260" font-size="27">
+      <tspan x="416">Let's turn your problems and challenges into secure,</tspan>
+      <tspan x="416" dy="38">practical, and easy-to-use software solutions.</tspan>
+    </text>
+  </g>
+  <path d="M48 338H1152" stroke="#315566"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="368" width="28" height="21" rx="4"/>
+    <path d="m50 371 12 9 12-9"/>
+    <!-- Telephone handset. -->
+    <path transform="translate(-272 252)" d="M726 108h6l4 9-5 4q4 8 12 12l4-5 9 4v6q0 5-5 5c-17-1-30-14-30-30q0-5 5-5Z"/>
+    <!-- LinkedIn mark. -->
+    <rect x="808" y="364" width="28" height="28" rx="4"/>
+    <path d="M815 376v9m7 0v-9m0 4q0-5 5-4 3 0 3 4v5"/>
+    <circle cx="815" cy="371" r="1"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="url(#accent)">
+    <text x="92" y="386" font-size="22">renielgalang.py@gmail.com</text>
+    <text x="500" y="386" font-size="22">(+63) 992-515-2549</text>
+    <text x="852" y="386" font-size="22">in/reniel-galang-tech-engr</text>
   </g>
 </svg>
